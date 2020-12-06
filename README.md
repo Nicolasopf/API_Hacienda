@@ -55,7 +55,7 @@ La que se llama www contiene un archivo de configuración, en donde se modifican
 
 ### Uso del API
 * Ver y colaborar documentación en [wiki del API](https://github.com/CRLibre/API_Hacienda/wiki "Wiki CRLibre API_Hacienda")
-* Documento [Step by Step del API](https://crlibre.org/wp-content/uploads/2018/08/586abf6db6fc1117b60b2753-280x124.png) para migrar al wiki.
+* Documento [Step by Step del API](https://crlibre.org/wp-content/uploads/2018/08/Documento-API-Instalacion-CRLibre.docx) para migrar al wiki.
 
 #### Primeros Pasos
 * [Primera petición al API](https://github.com/CRLibre/API_Hacienda/wiki/Primera-petici%C3%B3n-al-API)
